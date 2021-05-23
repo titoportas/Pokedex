@@ -28,6 +28,10 @@ ext.versions = [
     // kotlin
     kotlin               : '1.4.32',
 
+    // compose
+    compose              : '1.0.0-beta06',
+    composeFoundation    : '1.0.0-beta07',
+
     // support library
     materialVersion      : '1.2.0-alpha06',
     constraintVersion    : '2.0.4',

@@ -24,7 +24,7 @@ buildscript {
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:$versions.gradleBuildTool"
+        classpath "com.android.tools.build:gradle:7.0.0-beta02"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$versions.kotlin"
         classpath "com.google.dagger:hilt-android-gradle-plugin:$versions.hiltCoreVersion"
         classpath "com.diffplug.spotless:spotless-plugin-gradle:$versions.spotlessGradle"
